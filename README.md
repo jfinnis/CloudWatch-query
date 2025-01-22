@@ -6,7 +6,7 @@ for notes and future reference.
 
 ## Installation
 
-Via the Lazy/etc plugin manager::
+Via the Lazy/etc plugin manager:
 
 ```lua
 { 'jfinnis/CloudWatch-query.nvim' }
