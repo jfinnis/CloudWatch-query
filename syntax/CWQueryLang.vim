@@ -5,7 +5,7 @@ if exists('b:current_syntax')
     finish
 endif
 
-let b:current_syntax = 'cwl'
+let b:current_syntax = 'CWQueryLang'
 
 let s:cpo_save = &cpo
 set cpo&vim
