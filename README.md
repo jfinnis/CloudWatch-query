@@ -7,6 +7,7 @@ While this syntax is mostly used on the AWS Console directly, I find it useful t
 You may also see the syntax highlighting for `.norg` files used by the Neorg notes plugin.
 
 Demo:
+
 ![Code block of CloudWatch Query Language being rendered inside a Neorg note](./docs/demo-norg.png)
 
 ## Installation
