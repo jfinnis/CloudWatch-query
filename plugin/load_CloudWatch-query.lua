@@ -1,0 +1,1 @@
+require('CloudWatch-query').setup()
