@@ -37,9 +37,9 @@ syn keyword CloudWatchFunction
     \ count
     \ bin
 
-syn match CloudWatchComment /#.*/ contains=@Spell
-syn match CloudWatchDefaultField /@\w*/ " @timestamp, @message, etc
-syn match CloudWatchRelTime /\<\d\+[smhdSMHD]\>/ "1h, 5m, etc
+syn match CloudWatchComment /#.*/ contains=@Spell  " begins with '#'
+syn match CloudWatchDefaultField /@\w*/            " @timestamp, @message, etc
+syn match CloudWatchRelTime /\<\d\+[smhdSMHD]\>/   " 1h, 5m, etc
 
 hi def link CloudWatchComment Comment
 hi def link CloudWatchStringD String
