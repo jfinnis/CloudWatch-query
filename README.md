@@ -4,7 +4,8 @@ Provides syntax highlighting and a filetype for AWS CloudWatch Logs Insights Que
 While this syntax is mostly used on the AWS Console directly, I find it useful to save in files
 (with a .cwl extension) for notes and future reference.
 
-You may also see the syntax highlighting for `.norg` files used by the Neorg notes plugin.
+You may also see the syntax highlighting in code blocks for `.norg` files used by the Neorg notes
+plugin.
 
 Demo:
 
